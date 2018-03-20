@@ -1,6 +1,6 @@
 # Javascript30 #1: JS Drum Kit
 
-### The kbd Tag
+### The `<kbd>` Tag
 The `<kbd>` tag is used to denote a keyboard input. User agents (browser) generally style this as monospace code-like text.
 It can be nested for multi-key commands:
 ```
@@ -13,7 +13,7 @@ Paste: <kbd><kbd>Ctrl</kbd>+<kbd>v</kbd></kbd>
 ### The `data` Attribute
 - Provides the ability to embed custom attributes to HTML elements using the prefix 'data-'
 
-### Element.classList: .add(), .remove(), .toggle()
+### `Element.classList`
 - a read-only property which returns a live DOMTokenList collection of the class attributes of the element.
 - Using classList is a convenient alternative to accessing an element's list of classes as a space-delimited string via element.className
 - Methods:
