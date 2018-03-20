@@ -7,8 +7,8 @@ It can be nested for multi-key commands:
 Copy: <kbd><kbd>Ctrl</kbd>+<kbd>c</kbd></kbd>
 Paste: <kbd><kbd>Ctrl</kbd>+<kbd>v</kbd></kbd>
 ```
-> Copy: <kbd><kbd>Ctrl</kbd>+<kbd>c</kbd>
-Paste: <kbd><kbd>Ctrl</kbd>+<kbd>v</kbd>
+> Copy: <kbd><kbd>Ctrl</kbd>+<kbd>c</kbd></kbd>
+> Paste: <kbd><kbd>Ctrl</kbd>+<kbd>v</kbd></kbd>
 
 ### The 'data' Attribute
 - Provides the ability to embed custom attributes to HTML elements using the prefix 'data-'
